@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Magna</string>
+    <string name="password">password_ET</string>
+    <string name="username">username_ET</string>
+    <string name="title_activity_home__main">Magna</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_home_main">Magna</string>
+</resources>
